@@ -1,7 +1,7 @@
 # Hi, I'm Boitshepo👋
 Welcome to my GitHub profile.
 
-##🚀About Me;
+🚀About Me;
 I'm currently learning and building my skills in tech step by step.
 
 🎯What im focusing on
@@ -9,8 +9,8 @@ I'm currently learning and building my skills in tech step by step.
 - Git & GitHub
 - Coding Fundamentals
 
-##📌Current Goal
+📌Current Goal
 Build real projects and grow a strong portfolio.
 
-##📥Connect
+📥Connect
 Coming soon...
