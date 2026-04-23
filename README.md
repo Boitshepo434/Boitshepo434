@@ -1,4 +1,4 @@
-# Hi, Im Boitshepo👋
+# Hi, I'm Boitshepo👋
 Welcome to my GitHub profile.
 
 ##🚀About Me
