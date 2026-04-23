@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, Im Boitshepo👋
+Welcome to my GitHub profile.
 
-<!--
-**Boitshepo434/Boitshepo434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀About Me
+Im currently learning and building my skills in tech step by step.
 
-Here are some ideas to get you started:
+🎯What im focusing on
+- Cybersecurity basics
+- Git & GitHub
+- Coding Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📌Current Goal
+Build real projects and grow a strong portfolio.
+
+##📥Connect
+Coming soon...
