@@ -2,7 +2,7 @@
 Welcome to my GitHub profile.
 
 ##🚀About Me
-Im currently learning and building my skills in tech step by step.
+I'm currently learning and building my skills in tech step by step.
 
 🎯What im focusing on
 - Cybersecurity basics
